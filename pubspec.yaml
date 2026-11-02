@@ -1,0 +1,19 @@
+name: studyflow_demo
+description: Demo Flutter ve Theme va UX - giao dien nhat quan va trai nghiem nguoi dung.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
