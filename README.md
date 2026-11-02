@@ -2,6 +2,15 @@
 
 Ứng dụng Flutter minh họa trực quan, tinh gọn, được **tách thành các file nhỏ theo từng phần lý thuyết** khớp với bài thuyết trình của nhóm.
 
+## Phân công thực hiện
+
+| Thành viên | Tài khoản GitHub | Nội dung phụ trách | Đóng góp |
+| :--- | :--- | :--- | :---: |
+| **Lê Nguyễn Trường Giang** | [@11legiang](https://github.com/11legiang) | Hệ thiết kế và khung trang: lõi widgets, Material Design, Cupertino, `Scaffold` và `AppBar` (`home_screen.dart`, `theme_control_panel.dart`). | 50% |
+| **Võ Huy Hùng** | [@hung070405-bot](https://github.com/hung070405-bot) | `Theme`, `ColorScheme`, `Typography` và các nguyên tắc UX (`app_theme.dart`, `task_tile.dart`, `main.dart`). | 50% |
+
+---
+
 ## 1. Cấu trúc thư mục (`lib/`)
 
 Mỗi file trong `lib/` chỉ dài từ **20 – 150 dòng**, tương ứng trực tiếp với phần thuyết trình của 2 thành viên:
